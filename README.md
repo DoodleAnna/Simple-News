@@ -1,4 +1,4 @@
-## 📰[Simple News ](https://dsc.gg/simple-news)
+# 📰[Simple News ](https://dsc.gg/simple-news)
 ### The Best 📰NEWS bot on discord
 ## ❓What is Simple News?
 - 📰Simple News is the most popular and one of the only News bots on discord that provides news on a single command. 
@@ -16,4 +16,10 @@
 ## 🔗Invite 
 
 
-[Link button](https://dsc.gg/simple-news) {: .btn .btn-blue }
+- [ Invite Simple News to your server!](https://dsc.gg/simple-news)
+
+
+
+
+---
+##### 📅Notice : If you cannot add the bot or there is an error displayed while inviting it then it is not yet verified by Discord 😞
